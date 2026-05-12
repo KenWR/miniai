@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "minicodex"
+version = "0.1.0"
+description = "A small Codex-style CLI learning project."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+minicodex = "minicodex.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
