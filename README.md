@@ -1,2 +1,2 @@
 # miniai
-A hands-on project for exploring AI from high-level agents down to model fundamentals.
+상위 수준의 AI 에이전트부터 모델의 기본 원리까지 직접 실습하며 탐구하는 학습 프로젝트입니다.
